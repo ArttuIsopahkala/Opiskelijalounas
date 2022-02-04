@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Opiskelijalounas</string>
+
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="ok">OK</string>
+    <string name="send">Lähetä</string>
+    <string name="cancel">Peruuta</string>
+    <string name="city">Kaupunki</string>
+    <string name="address">Lähiosoite</string>
+    <string name="postal_code">Postinumero</string>
+    <string name="name">Nimi</string>
+    <string name="loading">Ladataan lounaslistaa&#8230;</string>
+    <string name="open">AUKI</string>
+    <string name="closed">KIINNI</string>
+
+    <string name="invite_message">Tämä sovellus näyttää paikat joista saa opiskelijalounasta. Kannattaa ladata! https://play.google.com/store/apps/details?id=com.ardeapps.opiskelijalounas</string>
+    <string name="invite_email_subject">Lataappa tämä sovellus!</string>
+    <string name="invite_chooser_title">Kuinka haluat kutsua kavereita?</string>
+
+    <string name="map_search_hint">Hae ravintolan tai kaupungin nimellä</string>
+    <string name="map_search">Hae</string>
+    <string name="map_no_results">Ei tuloksia</string>
+
+    <string name="restaurants_student_lunch">Lounas klo</string>
+    <string name="restaurants_on_map">Kartalla näkyvät</string>
+    <string name="restaurants_show_close">Lähellä sinua</string>
+    <string name="restaurants_show_all">Kaikki ravintolat</string>
+    <string name="restaurants_search_hint">Hae ravintolan nimellä</string>
+
+    <string name="edit_restaurant_add_title">Lisää ravintola</string>
+    <string name="edit_restaurant_add_name">Täytä ainakin nimi!</string>
+    <string name="edit_restaurant_invalid_url">Tarkista URL osoite!</string>
+    <string name="edit_restaurant_title">Voit täyttää vain osan tiedoista.</string>
+    <string name="edit_restaurant_ready">Valmis</string>
+    <string name="edit_restaurant_lunch_time">Opiskelijalounaan tarjoiluaika</string>
+    <string name="edit_restaurant_start">Alkaa</string>
+    <string name="edit_restaurant_end">Loppuu</string>
+    <string name="edit_restaurant_menu_title">Täytä lounaslistan URL osoite</string>
+    <string name="edit_restaurant_menu_rss">RSS syöte</string>
+    <string name="edit_restaurant_menu_json">JSON syöte</string>
+    <string name="edit_restaurant_menu_web">Lounaslistan web-sivu</string>
+    <string name="edit_restaurant_time_empty">Täytä molemmat ajat!</string>
+    <string name="edit_restaurant_time_before">Ajat ovat väärinpäin!</string>
+    <string name="edit_restaurant_submit_title">Kiitos avusta!</string>
+    <string name="edit_restaurant_submit_desc">Ylläpito lisää tiedot sovellukseen tarkastuksen jälkeen.</string>
+
+    <string name="add_restaurant_title">Lisää ravintola</string>
+
+    <string name="restaurant_no_lunch">Ei lounasta valittuna päivänä</string>
+    <string name="restaurant_lunch_added">Näytä lounaslista</string>
+    <string name="restaurant_add_lunch">Lisää lounaslista</string>
+    <string name="restaurant_show_web_lunch">Vaihda web-näkymään</string>
+    <string name="restaurant_show_calendar_lunch">Vaihda kalenterinäkymään</string>
+    <string name="restaurant_calendar_no_lunch">Ei lounaslistaa tälle päivälle.</string>
+    <string name="restaurant_remove_restaurant">Haluatko poistaa tämän ravintolan?</string>
+    <string name="restaurant_option_edit">Muokkaa ravintolaa</string>
+
+    <string name="favourites_no_items">Suosikkiravintoloiden ruokalistat ladataan sovelluksen käynnistyessä. Lisää suosikkeja painamalla tähteä ravintolan kohdalta.</string>
+
+    <string name="info_feedback_add_restaurant_title">Puuttuuko jokin opiskelijaravintola sovelluksesta? Lisää se tästä.</string>
+    <string name="info_feedback_add_restaurant_add">Lisää</string>
+    <string name="info_feedback_title">Lähetä kehitysehdotus tai ilmoita puutteellisista tiedoista.</string>
+    <string name="info_feedback_write">Kirjoita palaute</string>
+    <string name="info_feedback_sent">Kiitos palautteesta!</string>
+    <string name="info_rate_title">Pidätkö sovelluksesta?</string>
+    <string name="info_rate">Arvostele sovellus</string>
+    <string name="info_rate_more">Lisää sovelluksia</string>
+    <string name="info_invite">Kutsu kavereita</string>
+    <string name="info_restaurant_requests">Ravintolapyynnöt</string>
+    <string name="info_feedbacks">Palautteet</string>
+    <string name="info_remove_restaurant_request">Haluatko poistaa tämän pyynnön?</string>
+    <string name="info_remove_feedback">Haluatko poistaa tämän palautteen?</string>
+    <string name="info_link_privacy">Tietosuojakäytäntö</string>
+
+    <string name="network_error">Internet-yhteyttä ei löydy</string>
+    <string name="permission_not_granted">Olet estänyt tämän toiminnon käytön.</string>
+    <string name="google_map_api_key">AIzaSyB3_JyIxcMfxzeabgXdKXMlehTgxqAIUN4</string>
+    <string name="admob_app_id">ca-app-pub-2033708472283724~5733204536</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2033708472283724/4914946882</string>
+</resources>

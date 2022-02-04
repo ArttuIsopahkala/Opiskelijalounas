@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="color_restaurant" type="color">#293136</item>
+    <item name="color_colored" type="color">#edab26</item>
+    <item name="color_dark" type="color">#1d1d1d</item>
+    <item name="color_main" type="color">#0F0F0F</item>
+    <item name="color_text_light" type="color">#f1eeea</item>
+    <item name="color_text_dark" type="color">#231503</item>
+    <item name="color_text_hint" type="color">#aeaeae</item>
+    <item name="color_shadow" type="color">#b43e3e3e</item>
+    <item name="color_link" type="color">#FF1C77FF</item>
+    <item name="color_button" type="color">#242424</item>
+    <item name="color_open" type="color">#11cc00</item>
+    <item name="color_open_weekend" type="color">#ffe100</item>
+    <item name="color_closed" type="color">#ce1515</item>
+</resources>

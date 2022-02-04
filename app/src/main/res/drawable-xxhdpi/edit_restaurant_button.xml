@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@color/color_restaurant"/>
+    <item
+        android:left="10dp"
+        android:right="10dp"
+        android:width="10dp"
+        android:height="10dp"
+        android:gravity="center">
+        <bitmap
+            android:src="@drawable/list_icon"
+            android:tileMode="disabled" />
+
+    </item>
+
+</layer-list>

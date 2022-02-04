@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_restaurant"
+    android:padding="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/lunchesContainer"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/descriptionText"
+        android:textStyle="italic"
+        android:textSize="14sp"
+        android:text="Kerää lautasellise mitä haluat lounaslistastosta"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/priceText"
+        android:gravity="end"
+        android:textColor="@color/color_text_light"
+        android:layout_marginTop="5dp"
+        android:textStyle="italic"
+        android:textSize="12sp"
+        android:text="2,60€ / 5,00€ / 8,00€" />
+</LinearLayout>
